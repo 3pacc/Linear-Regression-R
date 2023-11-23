@@ -10,4 +10,4 @@ Ce script R a été conçu pour analyser les facteurs de risque associés à une
 
 - **Interprétation des résultats :** Les résultats de la régression linéaire, y compris les coefficients, les résidus, et les statistiques de modèle, sont affichés pour évaluer la significativité des facteurs de risque identifiés.
 
-++++++++++++++++
++++++++++++++++++=
