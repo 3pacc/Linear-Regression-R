@@ -9,4 +9,3 @@ Ce script R a été conçu pour analyser les facteurs de risque associés à une
 - **Ajustement du modèle de régression :** Utilisation de la fonction `lm` de R pour ajuster un modèle de régression linéaire en prenant en compte des variables telles que l'âge, le sexe, et d'autres facteurs de risque.
 
 - **Interprétation des résultats :** Les résultats de la régression linéaire, y compris les coefficients, les résidus, et les statistiques de modèle, sont affichés pour évaluer la significativité des facteurs de risque identifiés.
-##
